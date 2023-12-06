@@ -1,5 +1,4 @@
-import _ from "lodash";
+import _ from 'lodash';
 
-const log = (arr) => console.log(_.last(arr));
-
+const log = (arr) => _.last(arr);
 export default log;

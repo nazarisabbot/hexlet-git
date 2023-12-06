@@ -1,3 +1,3 @@
-import lodashLast from "./src/index.js";
+import lodashLast from './src/index';
 
-lodashLast(["one", "two", "three"]);
+lodashLast(['one', 'two', 'three']);
