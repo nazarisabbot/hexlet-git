@@ -19,5 +19,8 @@
   "homepage": "https://github.com/nazarisabbot/hexlet-git#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^3.1.0"
   }
 }
